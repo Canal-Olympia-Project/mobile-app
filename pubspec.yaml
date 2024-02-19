@@ -43,7 +43,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_statusbarcolor_ns: ^0.5.0
-  flutter_svg: ^2.0.8
+  flutter_svg: ^2.0.9
   fluttertoast: ^8.2.2
   get_it: ^7.6.4
   hydrated_bloc: ^9.1.2
